@@ -1,7 +1,7 @@
 // Add token contract addresses (CA) here, newest first.
 // Name, ticker, image and market cap are fetched live from pump.fun and DexScreener.
 export const TOKEN_ADDRESSES: string[] = [
-  '3h2WKNyyBeQYi6NKqUnN9G9hCyA9b53t8uSyDfpMpump',
+  '7TopJi5V8Q7WJFgsnNAiGL7w8UVp1JHUqHJx518X1owW',
   '5RRKcvyF6p5BBwv5FVuzvmRrsSdZdbVJHBxkSej3pump',
 ]
 
