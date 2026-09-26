@@ -3,6 +3,7 @@
 export const TOKEN_ADDRESSES: string[] = [
   '7TopJi5V8Q7WJFgsnNAiGL7w8UVp1JHUqHJx518X1owW',
   '5RRKcvyF6p5BBwv5FVuzvmRrsSdZdbVJHBxkSej3pump',
+  'eEGktGMDRroy52GyvBRcGofSMU7xSMdLN5hsKWh16ip',
 ]
 
 export type TokenStatus = 'new' | 'migrated'
